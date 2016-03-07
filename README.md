@@ -37,4 +37,9 @@ EMFILE     | fs.errors.OutOfFileDescriptors
 EPERM      | fs.errors.Permissions
 
 
+## TODO
+
+Add all of the apis mentioned here https://github.com/nodejs/node/pull/5020
+
+
 
